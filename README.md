@@ -1,4 +1,4 @@
-## Supervised Learning Flower Class
+## Supervised Learning Iris Class
   A supervised learning snippet to infer the class of a flower using previos data.
 
 ## Build On...
